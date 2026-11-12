@@ -1,0 +1,21 @@
+
+[
+  {
+    "transactionId": "TXN-2001",
+    "accountId": "ACC-1001",
+    "transactionType": "CREDIT",
+    "amount": 1000.00,
+    "currency": "INR",
+    "sequenceNumber": 1,
+    "idempotencyKey": "KEY-2001"
+  },
+  {
+    "transactionId": "TXN-2002",
+    "accountId": "ACC-1001",
+    "transactionType": "DEBIT",
+    "amount": 200.00,
+    "currency": "INR",
+    "sequenceNumber": 2,
+    "idempotencyKey": "KEY-2002"
+  }
+]

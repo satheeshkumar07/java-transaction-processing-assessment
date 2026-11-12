@@ -1,0 +1,18 @@
+
+{
+  "accountId": "ACC-1001",
+  "currency": "INR",
+  "transactionsProcessed": 2,
+  "transactionsFailed": 0,
+  "finalBalance": 800.00,
+  "transactionResults": [
+    {
+      "transactionId": "TXN-2001",
+      "status": "PROCESSED"
+    },
+    {
+      "transactionId": "TXN-2002",
+      "status": "PROCESSED"
+    }
+  ]
+}
